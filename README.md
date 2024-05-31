@@ -1,5 +1,5 @@
 # 💫 About Me:
-✅This is Anteneh Tilaye from Addis Ababa University. <br>✅I'm a FullStack Developer. <br>🛑Portfolio: https://my-portfolio-six-mauve-76.vercel.app
+✅This is Anteneh Tilaye from Addis Ababa University. <br>✅I'm a MERN Stack and Flutter Developer. <br>🛑Portfolio: https://my-portfolio-six-mauve-76.vercel.app
 
 
 ## 🌐 Socials:
